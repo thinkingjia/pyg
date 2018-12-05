@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pyg_common_71" />
+        <module name="pyg_dao_71" />
+        <module name="pyg_manager_web_71" />
+        <module name="pyg_pojo_71" />
+        <module name="pyg_sellergoods_interface_71" />
+        <module name="pyg_sellergoods_service_71" />
+        <module name="pyg_shop_web_71" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="pyg_common_71" target="1.8" />
+      <module name="pyg_dao_71" target="1.8" />
+      <module name="pyg_manager_web_71" target="1.8" />
+      <module name="pyg_parent_71" target="1.8" />
+      <module name="pyg_pojo_71" target="1.8" />
+      <module name="pyg_sellergoods_interface_71" target="1.8" />
+      <module name="pyg_sellergoods_service_71" target="1.8" />
+      <module name="pyg_shop_web_71" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
